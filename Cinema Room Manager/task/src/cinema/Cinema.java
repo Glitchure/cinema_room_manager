@@ -136,16 +136,4 @@ public class Cinema {
         System.out.println();
         System.out.println();
     }
-    /*
-    public static double trimDecimalPlaces(double num) {
-        int temp;
-        String string = Double.toString(num);
-        for (int i = 0; i < Double.toString(num).length(); i++) {
-            if ()
-            if (Double.toString(num).charAt(i) == '.') {
-                temp = i;
-            }
-        }
-    }
-     */
 }
